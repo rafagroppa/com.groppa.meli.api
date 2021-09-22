@@ -1,4 +1,4 @@
-package com.groppa.meli.api.model;
+package com.groppa.meli.api.collection;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;
@@ -17,7 +17,7 @@ import java.time.LocalDateTime;
 public class Customer {
     @Id
     @GeneratedValue(strategy = GenerationType.AUTO)
-    private long id;
+    private Long id;
     private String name;
     private String address;
     private String email;

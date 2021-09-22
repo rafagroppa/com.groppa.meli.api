@@ -1,6 +1,6 @@
 package com.groppa.meli.api.repository;
 
-import com.groppa.meli.api.model.Customer;
+import com.groppa.meli.api.collection.Customer;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 
