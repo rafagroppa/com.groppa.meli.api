@@ -1,4 +1,4 @@
-package com.groppa.meli.api.Exceptions;
+package com.groppa.meli.api.exceptions;
 
 import org.springframework.http.HttpStatus;
 

@@ -1,7 +1,7 @@
 package com.groppa.meli.api.service;
 
-import com.groppa.meli.api.Exceptions.ContentNotFoundException;
-import com.groppa.meli.api.Exceptions.PreConditionException;
+import com.groppa.meli.api.exceptions.ContentNotFoundException;
+import com.groppa.meli.api.exceptions.PreConditionException;
 import com.groppa.meli.api.constants.Messages;
 import com.groppa.meli.api.dto.CustomerBody;
 import com.groppa.meli.api.dto.CustomerFilter;

@@ -1,6 +1,6 @@
 package com.groppa.meli.api.controller;
 
-import com.groppa.meli.api.Exceptions.CustomException;
+import com.groppa.meli.api.exceptions.CustomException;
 import com.groppa.meli.api.model.Error;
 import lombok.extern.log4j.Log4j2;
 import org.springframework.http.HttpStatus;
